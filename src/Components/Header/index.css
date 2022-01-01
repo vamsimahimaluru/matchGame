@@ -1,0 +1,24 @@
+.header-container {
+  background-color: #cf60c8;
+  display: flex;
+  justify-content: space-between;
+}
+.logo {
+  height: 20%;
+  width: 20%;
+  padding: 5px;
+}
+.right-side {
+  display: flex;
+}
+.timer {
+  height: 20px;
+  margin-top: 15px;
+}
+.timer-container {
+  display: flex;
+  padding: 15px;
+}
+.pera-score {
+  margin-top: 30px;
+}
